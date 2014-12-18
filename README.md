@@ -3,11 +3,13 @@ Vectorstack
 
 Vector stack will install the following stack on CoreOs Vagrant box
 
-1)Cassandra 
-2)Apache Solr
-3)Nodejs
-4)Celery with Python 2.7
-5)Apache Spark 1.1.1
+
+
+- Cassandra 
+- Apache Solr
+- Nodejs
+- Celery with Python 2.7
+- Apache Spark 1.1.1
 
 
 

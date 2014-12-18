@@ -8,3 +8,8 @@ spark:
     build: images/spark
     links:
     - celery
+solr:
+    build: images/solr
+    links:
+    - cassandra
+    - spark

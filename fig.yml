@@ -1,0 +1,10 @@
+cassandra:
+    build: images/cassandra
+celery:
+    build: images/celery
+nodejs:
+    build: images/nodejs
+spark:
+    build: images/spark
+    links:
+    - celery
